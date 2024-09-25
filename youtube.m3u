@@ -129,7 +129,7 @@ https://raw.githubusercontent.com/Nuttypro69/YouTube_to_m3u/main/assets/info.m3u
 https://raw.githubusercontent.com/Nuttypro69/YouTube_to_m3u/main/assets/info.m3u
 
 #EXTINF:-1 group-title="Latino" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLRmmKfO1elXXd35esMKADHT1pwz6e-JLpQrO0Do=s88-c-k-c0x00ffffff-no-rj" tvg-id="", Televisa Monterrey
-https://raw.githubusercontent.com/Nuttypro69/YouTube_to_m3u/main/assets/info.m3u
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1727298458/ei/Oif0Zqj6K-CCkucP7baK4AU/ip/20.109.39.152/id/Dv5kSWH7iNc.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51250684/txs/51250684%2C51250685%2C51250686%2C51250687%2C51250688/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/ss/1/spc/54MbxTjtNbQyIc-ioZs0we0ORnfJGK5Q7XO1qeuKGBhxinXsCjOWVGk1kCki/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/fexp/51299151%2C51300761/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Css%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgWYJNWBctEP0eLOBUCEg0dg6uOxahcAifqYu5QkBrZ_wCIC9HbYaHiyAyKGXVxk4Z5moFajV_CPeWzHTmXfk_sMDZ/file/index.m3u8
 
 #EXTINF:-1 group-title="Latino" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLSQLi-YQ5nyYYmxkdA8pBkJIql9s_fCRZd2_yaC2A=s88-c-k-c0x00ffffff-no-rj" tvg-id="", Telediario Canal 6 Monterrey
 https://raw.githubusercontent.com/Nuttypro69/YouTube_to_m3u/main/assets/info.m3u
