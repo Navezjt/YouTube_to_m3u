@@ -297,7 +297,7 @@ https://raw.githubusercontent.com/Nuttypro69/YouTube_to_m3u/main/assets/info.m3u
 https://raw.githubusercontent.com/Nuttypro69/YouTube_to_m3u/main/assets/info.m3u
 
 #EXTINF:-1 group-title="English" tvg-logo="https://i.imgur.com/8OCSD9V.png" tvg-id="", ABC News (Australia)
-https://raw.githubusercontent.com/Nuttypro69/YouTube_to_m3u/main/assets/info.m3u
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1728671871/ei/HxwJZ8XyJNyRsfIPs5OguA0/ip/52.238.27.193/id/vOTiJkg1voo.6/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/54MbxSNZmrzgW_B1GglBfaXIxF5nftO-_x2w6RNB4nGpNhI0lY6tWktgvdWQ/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/fexp/51300761/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgD91HZFWkeZx11c4tSNTaLe4TNlWeUvjn1HCibXV5uPQCIQDosxCU4yWr37SljzDmFJTr6haHs_Slsj3cBdpCoKh9yg%3D%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="English" tvg-logo="https://i.imgur.com/y5kZk6K.png" tvg-id="", ANews
 https://raw.githubusercontent.com/Nuttypro69/YouTube_to_m3u/main/assets/info.m3u
