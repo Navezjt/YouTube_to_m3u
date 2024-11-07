@@ -372,7 +372,7 @@ https://raw.githubusercontent.com/Nuttypro69/YouTube_to_m3u/main/assets/info.m3u
 https://raw.githubusercontent.com/Nuttypro69/YouTube_to_m3u/main/assets/info.m3u
 
 #EXTINF:-1 group-title="Kids" tvg-logo="https://i.imgur.com/vHpmWzh.png" tvg-id="", DC Kids
-https://raw.githubusercontent.com/Nuttypro69/YouTube_to_m3u/main/assets/info.m3u
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1731018341/ei/BeosZ9r1FM-RsfIPt8uUwAo/ip/52.234.38.129/id/NtnOzFvO_40.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/gcr/us/spc/qtApAWRy8lFYXQYu_F9BxjkloaYScFQsJBEXnJ8m3wAprNzSkpIZ3BBjmeqt4us/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/fexp/51312688%2C51326932/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cgcr%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgH-o6wUDBNmN8a-WzhL_5XMNbrWn937FyANz36dlvlwICIQD0tKKIKG3JDEC_gpCAwX6TO2Fs9A0YVJ86CSi-76r0hQ%3D%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="Kids" tvg-logo="https://i.imgur.com/zuMiEE4.jpg" tvg-id="", Disney Junior
 https://raw.githubusercontent.com/Nuttypro69/YouTube_to_m3u/main/assets/info.m3u
